@@ -61,7 +61,7 @@ Open the notebook and run all cells from the top (`Kernel -> Restart & Run All`)
 ```
 .
 ├── README.md
-├── da_hackathon.ipynb
+├── dA_HACKATHON.ipynb
 └── hackathons_clean.csv      # cleaned data (optional export)
 ```
 
